@@ -1,0 +1,6 @@
+Initial cmake configuration command
+> cmake -H. -Bbuild
+Project Build commmand
+> cmake --build build -- -j3
+Run command
+> cd ./build/bin && ./oop_cpp
