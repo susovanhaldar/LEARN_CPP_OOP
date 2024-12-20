@@ -3,4 +3,4 @@ Initial cmake configuration command
 Project Build commmand
 > cmake --build build -- -j3
 Run command
-> cd ./build/bin && ./oop_cpp
+> cd ./build/bin && ./oop_cpp && cd ../..

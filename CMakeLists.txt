@@ -23,7 +23,7 @@ set(CMAKE_CXX_FLAGS "${CMAKE_CXX_FLAGS} -Wall")
 
 #include_directories(${CMAKE_SOURCE_DIR}/src)
 
-set(SOURCES base/base.cpp
+set(SOURCES base/base_class.cpp
             src/object.cpp
             main.cpp )
 
